@@ -1,0 +1,103 @@
+.hero-img{
+	background: url("../img/dance_7.jpg") no-repeat;
+	height: 430px;
+	background-size: 146%;
+	background-position-y: 38%;
+}
+.cuadrotransparente{
+	background-color: rgb(0,0,0); opacity: 0.5;
+	width: 42%;
+	margin-left: 32%;
+	margin-top: 8%;
+}
+.cuadrotransparente p,h3{
+	font-family: Latolight;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom:10%;
+	padding-top: 2%;
+	color: white;
+	text-align: center;
+}
+.fondo-rombo{
+background-image: url("../img/cubes.png");
+width: 100%;
+}
+hr{
+width: 50%;
+margin-left: 30%;
+}
+.fondo-rombo h2{
+color: #5A5A58;
+text-align: center;
+padding-top: 25%;
+padding-bottom: 5%;
+margin-left: 10%;
+
+}
+.fondo-rombo p{
+color:grey;
+text-align: center;
+padding-top: 12%;
+margin-left: 20%;
+margin-right: 10%;
+padding-bottom: 20%;
+}
+.instructores h1{
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+.container h3{
+	color:#041223;
+	padding-top: 2%;
+}
+.container p{
+color:#041223;
+padding-bottom:40%;
+}
+.dance{
+	background-size: 100%;
+	height: 156px;
+}
+.rodulfo{
+	background-image: url("../img/profesor_4.jpg");
+}
+.adam{
+	background-image: url("../img/profesor_14.jpg");
+}
+.ianknowles{
+	background-image: url("../img/profesor_1.jpg");
+}
+.kalimba{
+	background-image: url("../img/profesor_10.jpg");
+}
+.ema{
+	background-image: url("../img/profesor_11.jpg");
+}
+.sam{
+	background-image: url("../img/profesor_12.jpg");
+}
+.kim{
+	background-image: url("../img/profesor_9.jpg");
+}
+.maggie{
+	background-image: url("../img/profesor_15.jpg");
+}
+.fondorombofrase{
+	background-image: url("../img/cubes.png");
+	width: 100%;
+}
+.fondorombofrase h1{
+	color: #041223;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	margin-left: 40%;
+	font-family:Latolight;
+}
+
+
+
+
+
+

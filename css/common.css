@@ -1,0 +1,78 @@
+/*danza y listas se da para las 4 opciones */
+.dancing/*danza*/{
+	margin-top: 2%;
+}
+.dancing a{
+text-decoration: none;
+}
+.navigation-bar a/*lista  a*/{
+	display: inline-block;
+	padding:1% 2%;
+	font-family:Latolight;
+	text-decoration: none;
+}
+.navigation-bar/*.lista*/{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
+}
+.navigation-bar a:hover{
+	background-color:#071120;
+	color: white;
+}
+.contact-us/*.contacto*/{
+	background:url("../img/shoes_1.jpg") no-repeat;
+	background-position: right;
+	height: 500px;
+}
+.contact-us{
+	padding: 1% 5%
+}
+.contact-us h1/*.contacto h1*/{
+	color: #071120;
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+.name, .email{
+	
+	background-position: 5px 10px;
+	padding-left: 5%;
+	border:1px solid #ECECEC;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 90%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+.name/*.nombre*/{
+	background: url(../img/icon.png) no-repeat;
+}
+.email{
+	background: url(../img/email.png) no-repeat;
+}
+.message/*.mensaj*/{
+	background: url(../img/mensaje.png);
+	background-repeat: no-repeat;
+	background-position: 5px 8px;
+	padding-left: 5%;
+	border:1px solid #ECECEC;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 90%;
+	padding-bottom: 17%;
+	padding-top: 1%;
+}
+.send/*.envia*/ {
+	background-color: #03152C;
+	color: white ;
+	padding: 1% 40%;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+	}
+.end-bar/*.barrafinal*/{
+	background-color: #03152C;
+	color: white;
+	font-size: 12px;
+	padding: 1% 5%;
+}
